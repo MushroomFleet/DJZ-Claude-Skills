@@ -136,3 +136,7 @@ If you use this codebase in your research or project, please cite:
 
 **Note**: Skills are provided as-is for educational and practical use. Ensure you understand each skill's methodology before applying it to production work.
 
+
+### Donate:
+
+[![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
