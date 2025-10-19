@@ -112,31 +112,27 @@ This archive is designed to preserve and share useful Claude Skills. If you have
 - Specify clear use cases
 - Include appropriate licensing information
 
-## Citation
+## 📚 Citation
 
-<!-- 
-Please complete this section with appropriate attribution:
+### Academic Citation
 
-### Author(s)
-[Author name(s) and contact information]
+If you use this codebase in your research or project, please cite:
 
-### Contributors
-[List of contributors]
+```bibtex
+@software{djz_claude_skills,
+  title = {DJZ Claude Skills: Collection of Skill.md files for Claude},
+  author = {[Drift Johnson]},
+  year = {2025},
+  url = {https://github.com/MushroomFleet/DJZ-Claude-Skills},
+  version = {1.0.0}
+}
+```
 
-### Version History
-[Version tracking and changelog]
 
-### Related Resources
-[Links to related projects, documentation, or resources]
-
-### Acknowledgments
-[Credits and acknowledgments]
--->
-
----
 
 **Repository Purpose**: Archive and reference collection for specialized Claude Skills
 
 **Last Updated**: 2025-10-18
 
 **Note**: Skills are provided as-is for educational and practical use. Ensure you understand each skill's methodology before applying it to production work.
+
