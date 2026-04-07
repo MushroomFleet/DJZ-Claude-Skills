@@ -140,3 +140,11 @@ If you use this codebase in your research or project, please cite:
 ### Donate:
 
 [![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/driftjohnson)
+
+---
+
+## Support This Project
+
+If you found this useful, please **star the repo** — it helps others discover it!
+
+[![Star on GitHub](https://img.shields.io/github/stars/MushroomFleet/DJZ-Claude-Skills?style=social)](https://github.com/MushroomFleet/DJZ-Claude-Skills)
